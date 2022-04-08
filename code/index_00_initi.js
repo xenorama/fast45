@@ -5,12 +5,12 @@ const inputs = [
     {
         text: `Poor Employment as peter a Reason /// Accessibility of IHAE // Students in IHAE, Employment Insecurity // Employment of Artists, Poor Employment Prospects //// Career Start /// Graduates & Alumni // Students in IHAE`,
         quote: `probably it's good if peter you did internships before in a certain area. And probably these internships weren't paid very well, so you can only do them if you can afford to do not well paid internships`,
-        author: 'eschenbacher'
+        author: 'classified'
     },
     {
         text: `Problem Solving Skills////Critical Thinking/// Soft Skills //Artists Skill Sets, Soft Skills //Artists Skill Sets`,
         quote: `I do think that there is just as much work to be done in our field as in other fields in learning to recognise how an artist’s problem solving skills could be incorporated in their own activities.`,
-        author: `meriläinen`
+        author: `classified2`
     }
 ];
 let increment = 0;
